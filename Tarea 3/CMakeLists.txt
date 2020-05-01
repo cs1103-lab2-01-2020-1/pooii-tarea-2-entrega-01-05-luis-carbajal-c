@@ -4,4 +4,4 @@ PROJECT(Tarea_3)
 
 file(GLOB SOURCES "src/*")
 
-add_executable(Tarea_3 ${SOURCES})
+add_executable(Tarea_3 ${SOURCES} src/ej2/Stack.cpp src/funciones.cpp)

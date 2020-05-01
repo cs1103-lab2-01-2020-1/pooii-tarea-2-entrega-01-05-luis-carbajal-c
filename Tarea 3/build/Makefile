@@ -122,6 +122,87 @@ Tarea_3/fast:
 	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/build
 .PHONY : Tarea_3/fast
 
+src/ej2/Stack.obj: src/ej2/Stack.cpp.obj
+
+.PHONY : src/ej2/Stack.obj
+
+# target to build an object file
+src/ej2/Stack.cpp.obj:
+	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.obj
+.PHONY : src/ej2/Stack.cpp.obj
+
+src/ej2/Stack.i: src/ej2/Stack.cpp.i
+
+.PHONY : src/ej2/Stack.i
+
+# target to preprocess a source file
+src/ej2/Stack.cpp.i:
+	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.i
+.PHONY : src/ej2/Stack.cpp.i
+
+src/ej2/Stack.s: src/ej2/Stack.cpp.s
+
+.PHONY : src/ej2/Stack.s
+
+# target to generate assembly for a file
+src/ej2/Stack.cpp.s:
+	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.s
+.PHONY : src/ej2/Stack.cpp.s
+
+src/ejercicios.obj: src/ejercicios.cpp.obj
+
+.PHONY : src/ejercicios.obj
+
+# target to build an object file
+src/ejercicios.cpp.obj:
+	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.obj
+.PHONY : src/ejercicios.cpp.obj
+
+src/ejercicios.i: src/ejercicios.cpp.i
+
+.PHONY : src/ejercicios.i
+
+# target to preprocess a source file
+src/ejercicios.cpp.i:
+	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.i
+.PHONY : src/ejercicios.cpp.i
+
+src/ejercicios.s: src/ejercicios.cpp.s
+
+.PHONY : src/ejercicios.s
+
+# target to generate assembly for a file
+src/ejercicios.cpp.s:
+	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.s
+.PHONY : src/ejercicios.cpp.s
+
+src/funciones.obj: src/funciones.cpp.obj
+
+.PHONY : src/funciones.obj
+
+# target to build an object file
+src/funciones.cpp.obj:
+	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/src/funciones.cpp.obj
+.PHONY : src/funciones.cpp.obj
+
+src/funciones.i: src/funciones.cpp.i
+
+.PHONY : src/funciones.i
+
+# target to preprocess a source file
+src/funciones.cpp.i:
+	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/src/funciones.cpp.i
+.PHONY : src/funciones.cpp.i
+
+src/funciones.s: src/funciones.cpp.s
+
+.PHONY : src/funciones.s
+
+# target to generate assembly for a file
+src/funciones.cpp.s:
+	$(MAKE) -f CMakeFiles\Tarea_3.dir\build.make CMakeFiles/Tarea_3.dir/src/funciones.cpp.s
+.PHONY : src/funciones.cpp.s
+
 src/main.obj: src/main.cpp.obj
 
 .PHONY : src/main.obj
@@ -158,6 +239,15 @@ help:
 	@echo ... edit_cache
 	@echo ... Tarea_3
 	@echo ... rebuild_cache
+	@echo ... src/ej2/Stack.obj
+	@echo ... src/ej2/Stack.i
+	@echo ... src/ej2/Stack.s
+	@echo ... src/ejercicios.obj
+	@echo ... src/ejercicios.i
+	@echo ... src/ejercicios.s
+	@echo ... src/funciones.obj
+	@echo ... src/funciones.i
+	@echo ... src/funciones.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.obj"
+  "CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.obj"
+  "CMakeFiles/Tarea_3.dir/src/funciones.cpp.obj"
   "CMakeFiles/Tarea_3.dir/src/main.cpp.obj"
   "Tarea_3.exe"
   "Tarea_3.exe.manifest"

@@ -80,6 +80,36 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1">
+			<Option target="Tarea_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej2">
+			<Option target="Tarea_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej2/Stack.cpp">
+			<Option target="Tarea_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej2/Stack.h">
+			<Option target="Tarea_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4">
+			<Option target="Tarea_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ejercicios.cpp">
+			<Option target="Tarea_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ejercicios.h">
+			<Option target="Tarea_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/funciones.cpp">
+			<Option target="Tarea_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/funciones.h">
+			<Option target="Tarea_3"/>
+		</Unit>
+		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h">
+			<Option target="Tarea_3"/>
+		</Unit>
 		<Unit filename="C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/main.cpp">
 			<Option target="Tarea_3"/>
 		</Unit>

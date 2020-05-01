@@ -56,9 +56,35 @@ include CMakeFiles/Tarea_3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Tarea_3.dir/flags.make
 
+CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.obj: CMakeFiles/Tarea_3.dir/flags.make
+CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.obj: ../src/ejercicios.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.obj"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_3.dir\src\ejercicios.cpp.obj -c "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\ejercicios.cpp"
+
+CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.i"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\ejercicios.cpp" > CMakeFiles\Tarea_3.dir\src\ejercicios.cpp.i
+
+CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.s"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\ejercicios.cpp" -o CMakeFiles\Tarea_3.dir\src\ejercicios.cpp.s
+
+CMakeFiles/Tarea_3.dir/src/funciones.cpp.obj: CMakeFiles/Tarea_3.dir/flags.make
+CMakeFiles/Tarea_3.dir/src/funciones.cpp.obj: ../src/funciones.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Tarea_3.dir/src/funciones.cpp.obj"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_3.dir\src\funciones.cpp.obj -c "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\funciones.cpp"
+
+CMakeFiles/Tarea_3.dir/src/funciones.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_3.dir/src/funciones.cpp.i"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\funciones.cpp" > CMakeFiles\Tarea_3.dir\src\funciones.cpp.i
+
+CMakeFiles/Tarea_3.dir/src/funciones.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_3.dir/src/funciones.cpp.s"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\funciones.cpp" -o CMakeFiles\Tarea_3.dir\src\funciones.cpp.s
+
 CMakeFiles/Tarea_3.dir/src/main.cpp.obj: CMakeFiles/Tarea_3.dir/flags.make
 CMakeFiles/Tarea_3.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tarea_3.dir/src/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Tarea_3.dir/src/main.cpp.obj"
 	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_3.dir\src\main.cpp.obj -c "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\main.cpp"
 
 CMakeFiles/Tarea_3.dir/src/main.cpp.i: cmake_force
@@ -69,19 +95,38 @@ CMakeFiles/Tarea_3.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_3.dir/src/main.cpp.s"
 	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\main.cpp" -o CMakeFiles\Tarea_3.dir\src\main.cpp.s
 
+CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.obj: CMakeFiles/Tarea_3.dir/flags.make
+CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.obj: ../src/ej2/Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.obj"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_3.dir\src\ej2\Stack.cpp.obj -c "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\ej2\Stack.cpp"
+
+CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.i"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\ej2\Stack.cpp" > CMakeFiles\Tarea_3.dir\src\ej2\Stack.cpp.i
+
+CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.s"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\src\ej2\Stack.cpp" -o CMakeFiles\Tarea_3.dir\src\ej2\Stack.cpp.s
+
 # Object files for target Tarea_3
 Tarea_3_OBJECTS = \
-"CMakeFiles/Tarea_3.dir/src/main.cpp.obj"
+"CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.obj" \
+"CMakeFiles/Tarea_3.dir/src/funciones.cpp.obj" \
+"CMakeFiles/Tarea_3.dir/src/main.cpp.obj" \
+"CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.obj"
 
 # External object files for target Tarea_3
 Tarea_3_EXTERNAL_OBJECTS =
 
+Tarea_3.exe: CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.obj
+Tarea_3.exe: CMakeFiles/Tarea_3.dir/src/funciones.cpp.obj
 Tarea_3.exe: CMakeFiles/Tarea_3.dir/src/main.cpp.obj
+Tarea_3.exe: CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.obj
 Tarea_3.exe: CMakeFiles/Tarea_3.dir/build.make
 Tarea_3.exe: CMakeFiles/Tarea_3.dir/linklibs.rsp
 Tarea_3.exe: CMakeFiles/Tarea_3.dir/objects1.rsp
 Tarea_3.exe: CMakeFiles/Tarea_3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Tarea_3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\rcarb\Git\POO\pooii-tarea-2-entrega-01-05-luis-carbajal-c\Tarea 3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Tarea_3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Tarea_3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
