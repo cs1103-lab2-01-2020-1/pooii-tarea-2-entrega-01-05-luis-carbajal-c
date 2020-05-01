@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3
+# Install script for directory: /home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Tarea_3")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -27,6 +27,11 @@ if(NOT CMAKE_INSTALL_COMPONENT)
   endif()
 endif()
 
+# Install shared libraries without execute permission?
+if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
+  set(CMAKE_INSTALL_SO_NO_EXE "1")
+endif()
+
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
@@ -40,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

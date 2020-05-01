@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Tarea_3.dir/objects.a
-C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\Tarea_3.dir/objects.a @CMakeFiles\Tarea_3.dir\objects1.rsp
-C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Tarea_3.dir/objects.a -Wl,--no-whole-archive  -o Tarea_3.exe -Wl,--out-implib,libTarea_3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Tarea_3.dir\linklibs.rsp
+/usr/bin/c++  -g   CMakeFiles/Tarea_3.dir/src/ejercicios.cpp.o CMakeFiles/Tarea_3.dir/src/funciones.cpp.o CMakeFiles/Tarea_3.dir/src/main.cpp.o CMakeFiles/Tarea_3.dir/src/ej2/Stack.cpp.o  -o Tarea_3 

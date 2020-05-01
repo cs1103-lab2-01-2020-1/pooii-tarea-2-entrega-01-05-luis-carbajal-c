@@ -2,8 +2,8 @@
 
 int main() {
     ejercicio1();
-    //ejercicio2(); //terminado (si hay tiempo hacerlo como en clase)
-    //ejercicio3(); //terminado
-    //ejercicio4(); //terminado
+    ejercicio2();
+    ejercicio3();
+    ejercicio4();
     return 0;
 }

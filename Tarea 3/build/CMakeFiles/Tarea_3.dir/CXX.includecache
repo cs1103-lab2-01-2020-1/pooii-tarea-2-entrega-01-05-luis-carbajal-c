@@ -6,81 +6,73 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Bicicleta.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Bicicleta.h
 Vehiculo.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Vehiculo.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Vehiculo.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Camion.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Camion.h
 Vehiculo.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Vehiculo.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Vehiculo.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Orden.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Orden.h
 utility
 -
 ../lib.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
 Bicicleta.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Bicicleta.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Bicicleta.h
 Camion.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Camion.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Camion.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Usuario.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Usuario.h
 Orden.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Orden.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Orden.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Vehiculo.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Vehiculo.h
 ../lib.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej2/Stack.cpp
-Stack.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej2/Stack.h
-
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej2/Stack.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej2/Stack.h
 ../lib.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.cpp
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.cpp
 TStack.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.h
 ../lib.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ejercicios.cpp
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ejercicios.cpp
 ejercicios.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ejercicios.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ejercicios.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ejercicios.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ejercicios.h
 lib.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
 funciones.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/funciones.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/funciones.h
 ej2/Stack.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej2/Stack.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej2/Stack.h
 ej4/TStack.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.h
 ej4/TStack.cpp
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.cpp
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej4/TStack.cpp
 ej1/Bicicleta.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Bicicleta.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Bicicleta.h
 ej1/Camion.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Camion.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Camion.h
 ej1/Usuario.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Usuario.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Usuario.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/funciones.cpp
-funciones.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/funciones.h
-
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/funciones.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/funciones.h
 lib.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
 ej1/Usuario.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Usuario.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ej1/Usuario.h
 
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/lib.h
 iostream
 -
 list
@@ -93,8 +85,4 @@ ctime
 -
 random
 -
-
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/main.cpp
-ejercicios.h
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/src/ejercicios.h
 

@@ -1,3 +1,3 @@
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/build/CMakeFiles/edit_cache.dir
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/build/CMakeFiles/Tarea_3.dir
-C:/Users/rcarb/Git/POO/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/build/CMakeFiles/rebuild_cache.dir
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/build/CMakeFiles/rebuild_cache.dir
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/build/CMakeFiles/edit_cache.dir
+/home/rcarb/github/poo/pooii-tarea-2-entrega-01-05-luis-carbajal-c/Tarea 3/build/CMakeFiles/Tarea_3.dir
